@@ -3,14 +3,4 @@
   <groupId>org.mql.Jenkins</groupId>
   <artifactId>project-jenkins-01</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <build>
-  	 <plugin>
-  	 	<groupId>org.apach.maven.plugins</groupId>
-        <artifactId>maven-surefire-plugin</artifactId>
-        <version>2.20</version>
-        <configuration>
-        	<skipTesta>false</skipTests>
-        </configuration>
-  	 </plugin>
-  </build>
 </project>
